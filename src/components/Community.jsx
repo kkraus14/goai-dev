@@ -188,7 +188,7 @@ class Community extends React.Component {
 							<div styleName="subheader">Our Members</div>
 							<ul styleName="list-compact">
 								<li><a href="https://anaconda.org/" styleName="link" target="_blank"> Anaconda </a> </li>
-								<li><a href="https://blazingdb.com/" styleName="link" target="_blank"> BlazindDB </a> </li>
+								<li><a href="https://blazingdb.com/" styleName="link" target="_blank"> BlazingDB </a> </li>
 								<li><a href="https://gunrock.github.io/gunrock/doc/latest/index.html" styleName="link" target="_blank"> Gunrock of UC Davis </a> </li>
 								<li><a href="https://www.graphistry.com/" styleName="link" target="_blank"> Graphistry </a> </li>
 								<li><a href="https://www.mapd.com/" styleName="link" target="_blank"> MapD </a> </li>
